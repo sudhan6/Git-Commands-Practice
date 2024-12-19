@@ -1,0 +1,9 @@
+step1: mkdir file name
+step2: cd file name
+step3: git init
+
+|---Untracked 
+|---Tracked
+       |--> Modified
+       |--> staged
+       |--> Commit
